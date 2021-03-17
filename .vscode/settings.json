@@ -1,0 +1,9 @@
+{
+    "files.watcherExclude": {
+        "**/flow_img/**": true
+    },
+    "files.exclude": {
+        "flow_img": true
+    },
+    "python.pythonPath": "/home/wangc/extern/Development/opt/anaconda3/envs/raft/bin/python"
+}
